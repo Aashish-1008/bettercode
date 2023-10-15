@@ -1,0 +1,2 @@
+It provides a way to access the element of collections, without exposing the 
+underlying representation.
