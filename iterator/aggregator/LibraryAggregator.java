@@ -1,8 +1,8 @@
-package behaviour.iterator.aggregator;
+package iterator.aggregator;
 
 
-import behaviour.iterator.iterator.Iterator;
-import behaviour.iterator.iterator.SequentialIterator;
+import iterator.iterator.Iterator;
+import iterator.iterator.SequentialIterator;
 
 import java.util.List;
 

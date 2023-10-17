@@ -1,4 +1,4 @@
-package behaviour.iterator.model;
+package iterator.model;
 
 import lombok.Getter;
 import lombok.Setter;

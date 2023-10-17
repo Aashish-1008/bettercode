@@ -1,6 +1,5 @@
-package behaviour.iterator.iterator;
+package iterator.iterator;
 
-import java.util.Collection;
 import java.util.List;
 
 public class SequentialIterator<T> implements Iterator{

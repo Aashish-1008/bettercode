@@ -1,4 +1,4 @@
-package behaviour.iterator.iterator;
+package iterator.iterator;
 
 public interface Iterator<T> {
     public boolean hasNext();

@@ -1,9 +1,9 @@
-package behaviour.iterator;
+package iterator;
 
-import behaviour.iterator.aggregator.LibraryAggregator;
-import behaviour.iterator.iterator.Iterator;
-import behaviour.iterator.model.Book;
-import behaviour.iterator.model.Item;
+import iterator.aggregator.LibraryAggregator;
+import iterator.iterator.Iterator;
+import iterator.model.Book;
+import iterator.model.Item;
 
 import java.util.Arrays;
 import java.util.List;
